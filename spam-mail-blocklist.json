@@ -1,0 +1,142 @@
+[
+    {
+        "domain": "gmail.com",
+        "category": "free-email",
+        "source": "https://gmail.com",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "yahoo.com",
+        "category": "free-email",
+        "source": "https://in.help.yahoo.com/kb/SLN2153.html?guccounter=1",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "myyahoo.com",
+        "category": "free-email",
+        "source": "https://in.help.yahoo.com/kb/SLN2153.html?guccounter=1",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "yahoo.co.uk",
+        "category": "free-email",
+        "source": "https://in.help.yahoo.com/kb/SLN2153.html?guccounter=1",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "yahoo.fr",
+        "category": "free-email",
+        "source": "https://in.help.yahoo.com/kb/SLN2153.html?guccounter=1",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "hotmail.com",
+        "category": "free-email",
+        "source": "https://hotmail.com",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "live.com",
+        "category": "free-email",
+        "source": "https://live.com",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "msn.com",
+        "category": "free-email",
+        "source": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "aol.com",
+        "category": "free-email",
+        "source": "https://www.aol.com",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "icloud.com",
+        "category": "free-email",
+        "source": "https://www.apple.com/icloud/",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "me.com",
+        "category": "free-email",
+        "source": "https://support.apple.com/en-in/118230",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "mac.com",
+        "category": "free-email",
+        "source": "https://support.apple.com/en-in/118230",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "outlook.com",
+        "category": "free-email",
+        "source": "https://outlook.com",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "protonmail.com",
+        "category": "free-email",
+        "source": "https://proton.me/support/addresses-and-aliases",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "proton.me",
+        "category": "free-email",
+        "source": "https://proton.me/support/addresses-and-aliases",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "protonmail.ch",
+        "category": "free-email",
+        "source": "https://proton.me/support/addresses-and-aliases",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "pm.me",
+        "category": "free-email",
+        "source": "https://proton.me/support/addresses-and-aliases",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "tuta.com",
+        "category": "free-email",
+        "source": "https://tuta.com/blog/secure-email-alias",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "tutanota.com",
+        "category": "free-email",
+        "source": "https://tutanota.com/",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    },
+    {
+        "domain": "tutanota.de",
+        "category": "free-email",
+        "source": "https://tutanota.com/",
+        "added": "2025-05-24",
+        "reason": "Public free email provider; may not represent corporate email"
+    }
+]
